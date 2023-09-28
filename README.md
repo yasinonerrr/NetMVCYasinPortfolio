@@ -1,6 +1,6 @@
 <h1>M&Y Eğitim Akademisi Portfolio Projesi</h1>
 
-Bu ASP.NET MVC tabanlı kişisel portfolio çalışmasıdır.
+Bu proje ASP.NET MVC tabanlı kişisel portfolio çalışmasıdır.
 
 <h1>Teknolojiler</h1>
 
@@ -14,6 +14,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
 <h3>SQL Server</h3>  
 
+Database sorguları store procedure ler kullanılarak yapılmıştır.
 <h1>Ekran Görüntüleri</h1>
 <img src="https://github.com/yasinonerrr/NetMVCYasinPortfolio/blob/master/Example01/theme/assets/1.JPG">
 <br />
@@ -34,4 +35,4 @@ Bu projenin amacı kişisel bir portfolyo örneği oluşturmak.
  Öncelikle projeyi klonlayın.
 
 git clone https://github.com/yasinonerrr/NetMVCYasinPortfolio.git Mssql deki connection string' inizi değiştirerek projeyi ayağa kaldırabilirsiniz.
-Proje içerisinde bulunan CvDb_script scriptini çalıştırarak database kontrolü sağlayabailirsiniz.
+Proje içerisinde bulunan CvDb_script scriptini çalıştırarak database kontrolü sağlayabilirsiniz.
